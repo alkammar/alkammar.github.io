@@ -1,1 +1,9 @@
-
+[{
+  "relation": ["delegate_permission/common.handle_all_urls"],
+  "target": {
+    "namespace": "android_app",
+    "package_name": "com.morkam.kora",
+    "sha256_cert_fingerprints":
+    ["6E:C4:94:E5:51:B4:8F:0C:3D:BF:21:AF:24:70:5F:3B:F7:95:D3:E6:8E:7C:2C:86:26:81:87:0B:C6:DE:F3:E9"]
+  }
+}]
