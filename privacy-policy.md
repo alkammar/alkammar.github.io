@@ -1,6 +1,6 @@
 # Privacy Policy
 
-**Effective Date:** [Insert Date]  
+**Effective Date:** April 13, 2025  
 **App Name:** Kora  
 **Platforms:** iOS & Android
 
